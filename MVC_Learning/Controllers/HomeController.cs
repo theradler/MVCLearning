@@ -3,8 +3,13 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Web;
 using Microsoft.AspNetCore.Mvc;
 using MVC_Learning.Models;
+using System.Data.Entity;
+
+
+
 
 namespace MVC_Learning.Controllers
 {
@@ -33,12 +38,20 @@ namespace MVC_Learning.Controllers
         {
             ViewData["Message"] = "A Meatball Page.";
 
-            return View(); 
+            return View();
         }
 
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        public IActionResult Login(LoginModel login)
+        {
+            return View();
+        }
+
+
     }
 }
+

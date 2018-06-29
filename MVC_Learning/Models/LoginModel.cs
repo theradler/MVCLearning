@@ -22,4 +22,14 @@ namespace MVC_Learning.Models
         public string Password { get; set; }
 
     }
+
+    [Table("tblUser")]
+    public class tblUser
+    {
+        [Key]
+        [DatabaseGeneratedAttribute(DatabaseGeneratedOption.Identity)]
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Password { get; set; }
+    }
 }

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mvc_learning:
+    image: ${DOCKER_REGISTRY}mvclearning
+    build:
+      context: .
+      dockerfile: MVC_Learning\Dockerfile

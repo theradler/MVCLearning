@@ -1,0 +1,11 @@
+D:\Projects\MVC\MVC_Learning\MVC_Learning\bin\Debug\netcoreapp2.0\MVC_Learning.deps.json
+D:\Projects\MVC\MVC_Learning\MVC_Learning\bin\Debug\netcoreapp2.0\MVC_Learning.runtimeconfig.json
+D:\Projects\MVC\MVC_Learning\MVC_Learning\bin\Debug\netcoreapp2.0\MVC_Learning.runtimeconfig.dev.json
+D:\Projects\MVC\MVC_Learning\MVC_Learning\bin\Debug\netcoreapp2.0\MVC_Learning.dll
+D:\Projects\MVC\MVC_Learning\MVC_Learning\bin\Debug\netcoreapp2.0\MVC_Learning.pdb
+D:\Projects\MVC\MVC_Learning\MVC_Learning\obj\Debug\netcoreapp2.0\MVC_Learning.csprojAssemblyReference.cache
+D:\Projects\MVC\MVC_Learning\MVC_Learning\obj\Debug\netcoreapp2.0\MVC_Learning.csproj.CoreCompileInputs.cache
+D:\Projects\MVC\MVC_Learning\MVC_Learning\obj\Debug\netcoreapp2.0\MVC_Learning.AssemblyInfoInputs.cache
+D:\Projects\MVC\MVC_Learning\MVC_Learning\obj\Debug\netcoreapp2.0\MVC_Learning.AssemblyInfo.cs
+D:\Projects\MVC\MVC_Learning\MVC_Learning\obj\Debug\netcoreapp2.0\MVC_Learning.dll
+D:\Projects\MVC\MVC_Learning\MVC_Learning\obj\Debug\netcoreapp2.0\MVC_Learning.pdb
